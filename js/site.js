@@ -9,9 +9,9 @@ const obj1 = {
     desc: "Friends, and love it what people dont realize is that public enemy already had this cult of skateboarders that loved them. they already had those formerly punk rock white boys loving them, largely because the beastie boys would play that tape for all their friends. it was the record we.",
 };
 const obj2 = {
-    name: "",
+    name: "Character2",
     age: 12,
-    gender: "feamel",
+    gender: "Female",
     m: 1,
     h: 2,
     d: 4,
